@@ -3,7 +3,7 @@
 > A fully interactive, template-based **Binary Search Tree (BST)** implementation in C++, featuring colored terminal output, ASCII tree visualization, iterative traversal, and support for multiple data types. Built and evolved across multiple versions from a basic implementation to a feature-rich interactive CLI application.
 
 ---
-## This is a funny and easy to replicate project that's just my personal project in free time. It still need some improvement so feel free to use and upgrade my code. Thank you !
+## This is a funny and easy to replicate project that's just my personal project when i dont know what to do :) . It still need some improvement so feel free to use and upgrade my code. Thank you !
 
 ## 📋 Table of Contents
 
